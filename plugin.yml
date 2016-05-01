@@ -1,0 +1,6 @@
+name: ShopSigns
+main: net.ryanhecht.infiniteshop.Main
+version: 1.0
+description: iBuy and iSell signs!
+author: RyanHecht_
+depend: [Vault]
